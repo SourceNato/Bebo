@@ -1,6 +1,6 @@
 #unzip luatele $(cd $(dirname $0); pwd)
 echo -e '\e[1m\e[31m
-Source Nero  is being installed, 
+Source Bebo  is being installed, 
 Please wait until the installation is complete
 \033[0m'
 echo -e '\033[0;33m
